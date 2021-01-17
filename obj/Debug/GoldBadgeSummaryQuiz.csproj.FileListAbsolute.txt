@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpQuizzes\GoldBadgeSummaryQuiz\bin\Debug\GoldBadgeSummaryQuiz.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\CSharpQuizzes\GoldBadgeSummaryQuiz\bin\Debug\GoldBadgeSummaryQuiz.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpQuizzes\GoldBadgeSummaryQuiz\bin\Debug\GoldBadgeSummaryQuiz.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpQuizzes\GoldBadgeSummaryQuiz\obj\Debug\GoldBadgeSummaryQuiz.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpQuizzes\GoldBadgeSummaryQuiz\obj\Debug\GoldBadgeSummaryQuiz.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpQuizzes\GoldBadgeSummaryQuiz\obj\Debug\GoldBadgeSummaryQuiz.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpQuizzes\GoldBadgeSummaryQuiz\obj\Debug\GoldBadgeSummaryQuiz.pdb
